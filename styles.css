@@ -12,9 +12,7 @@
   background-position: center;
 }
 
-.team-member:nth-child(1) .member-photo {
-  background-image: url("images/brian.jpg");
-}
+
 
 .team-member:nth-child(2) .member-photo {
   background-image: url("images/emilie.jpg");
